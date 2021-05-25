@@ -1,7 +1,7 @@
 - 👋 Hi, I’m vaibhav yadav
 - 👀 I’m interested in backend web development
 - 🌱 I’m currently learning python and javascript
-- 💞️ I’m looking to collaborate on ...(still not sure)
+- 💞️ I’m looking to collaborate on ...(not sure yet)
 - 📫 reach me on vaibhavkyy@gmail.com
 
 <!---
